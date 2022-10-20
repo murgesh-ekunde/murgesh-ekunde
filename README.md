@@ -30,5 +30,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murgesh-ekunde&" alt="murgesh-ekunde" /></p>
+<div align = "center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murgesh-ekunde&" alt="murgesh-ekunde" /></p></div>
 
