@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN & MEAN stack web development**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [https://murgesh-portfolio.netlify.app](soon)
 
 - 💬 Ask me about **REACT, Angular and Javascript**
 
