@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/murgesh-ekunde/github-banner-gif/blob/main/Blue%20Minimalist%20General%20Manager%20LinkedIn%20Banner.gif)
 
-<h2 align="center"> 💻 A passionate fullstack web developer from India </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🌱 I’m currently learning **MERN & MEAN stack web development**
