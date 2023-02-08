@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="margin:2px">
   Languages:
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
