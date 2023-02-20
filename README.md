@@ -19,7 +19,6 @@
 <a href="https://twitter.com/murgesh_crypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murgesh_crypto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murgesh-ekunde-525b97100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murgesh-ekunde-525b97100" height="30" width="40" /></a>
 <a href="https://codesandbox.com/murgesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="murgesh" height="30" width="40" /></a>
-<a href="https://instagram.com/mu.rgesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mu.rgesh" height="30" width="40" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
