@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN & MEAN stack web development**
 
-- 👨‍💻 All of my projects are available at Here: https://portfolio-website-sigma-lemon.vercel.app/
+- 👨‍💻 All of my projects are available at Here: https://murgesh-ekunde.vercel.app/
 
 - 💬 Ask me about **REACT, Angular and Javascript**
 
