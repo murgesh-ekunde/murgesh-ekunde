@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🌱 🧑‍💻 Full Stack Developer with a strong focus on **Shopify App Development**
+- 🧑‍💻 Full Stack Developer with a strong focus on **Shopify App Development**
 
 - 🔨 Built and deployed **7+ Shopify Apps** (embedded, checkout, review-based, and more)
 
@@ -11,7 +11,7 @@
 - 📈 Passionate about building fast, scalable SaaS apps for e-commerce
 
 - 🌐 Currently working at Techsurvi Media Pvt Ltd
-- 
+  
 - 💼 **Open to freelance Shopify/web dev projects!** (Ping me below)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
