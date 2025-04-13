@@ -2,15 +2,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🌱 I’m currently learning **MERN & MEAN stack web development**
+- 🌱 🧑‍💻 Full Stack Developer with a strong focus on **Shopify App Development**
 
-- 👨‍💻 All of my projects are available at Here: https://murgesh-ekunde.vercel.app/
+- 🔨 Built and deployed **7+ Shopify Apps** (embedded, checkout, review-based, and more)
 
-- 💬 Ask me about **REACT, Angular and Javascript**
+- 🛠️ Pro in MERN Stack | GraphQL | Shopify APIs | AWS | SQL
 
-- 📫 How to reach me **murgeshwork@gmail.com**
+- 📈 Passionate about building fast, scalable SaaS apps for e-commerce
 
-- ⚡ Fun fact **I'm nerdy but sarcasctic as well, wanna know how? Im just one Dm away**
+- 🌐 Currently working at Techsurvi Media Pvt Ltd
+- 
+- 💼 **Open to freelance Shopify/web dev projects!** (Ping me below)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
