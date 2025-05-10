@@ -4,7 +4,7 @@
 
 - 🧑‍💻 Full Stack Developer with a strong focus on **Shopify App Development**
 
-- 🔨 Built and deployed **7+ Shopify Apps** (embedded, checkout, review-based, and more)
+- 🔨 Built and deployed **7+ Shopify Apps** (Embedded, Non-Embedded, Checkout, Review, Discount and more apps)
 
 - 🛠️ Pro in MERN Stack | GraphQL | Shopify APIs | AWS | SQL
 
